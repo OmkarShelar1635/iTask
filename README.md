@@ -1,6 +1,6 @@
 # 📝 iTask – Full Stack Task Management App
 
-iTask is a full-stack task management application that helps users organize daily tasks efficiently. It includes user authentication, protected routes, and CRUD operations for todos using a modern MERN-based architecture.
+iTask is a full-stack task management application that helps users organize daily tasks efficiently. It includes user authentication, protected routes, and CRUD operations for tasks using a modern MERN-based architecture.
 
 ---
 
@@ -8,7 +8,7 @@ iTask is a full-stack task management application that helps users organize dail
 
 - User Authentication (Login / Signup)
 - JWT Protected Routes
-- Create, Read, Update & Delete Todos
+- Create, Read, Update & Delete Tasks
 - Responsive React UI
 - RESTful API with Express
 - MongoDB Database Integration
