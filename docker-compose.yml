@@ -1,0 +1,20 @@
+# docker-compose up (run this command only)
+
+version: "3.8"
+
+services:
+  backend:
+    build: ./backend
+    container_name: itask-backend
+    ports:
+      - "4000:4000"
+    env_file:
+      - ./backend/.env
+
+  frontend:
+    build: ./frontend
+    container_name: itask-frontend
+    ports:
+      - "5173:5173"
+    depends_on:
+      - backend
