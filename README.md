@@ -33,19 +33,6 @@ iTask is a full-stack task management application that helps users organize dail
 
 ---
 
-## 📂 Project Structure
-
-iTask/
-│
-├── frontend/
-│ └── React client
-│
-├── backend/
-│ └── Node + Express API
-│
-├── docker-compose.yml
-└── README.md
-
 ## ⚙️ Environment Variables
 
 backend/.env : 
