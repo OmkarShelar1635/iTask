@@ -1,4 +1,4 @@
-# 📝 iTask – Full Stack Task Management App
+# 📝 iTask – Smart Task Management App
 
 iTask is a full-stack task management application that helps users organize daily tasks efficiently. It includes user authentication, protected routes, and CRUD operations for tasks using a modern MERN-based architecture.
 
